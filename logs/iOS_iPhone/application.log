@@ -1,0 +1,122 @@
+[INFO ] 2021-03-22 10:41:26.0778 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:174) -got desired capabilities for:iOS
+[INFO ] 2021-03-22 10:41:26.0788 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:78) -started screen recording
+[INFO ] 2021-03-22 10:41:28.0022 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 10:41:34.0228 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 10:41:43.0356 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 10:41:53.0981 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:78) -started screen recording
+[INFO ] 2021-03-22 10:41:55.0222 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 10:42:07.0161 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 10:42:09.0591 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 10:42:11.0856 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 10:42:18.0877 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99 ADD TO CART
+[INFO ] 2021-03-22 10:42:21.0941 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 10:42:21.0941 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 10:42:29.0538 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 12:21:37.0343 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:202) -got desired capabilities for:iOS
+[INFO ] 2021-03-22 12:21:37.0427 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 12:21:38.0680 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 12:21:44.0633 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 12:21:50.0337 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 12:21:58.0280 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 12:21:59.0219 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 12:22:08.0062 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 12:22:09.0986 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 12:22:11.0621 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 12:22:18.0085 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99 ADD TO CART
+[INFO ] 2021-03-22 12:22:20.0254 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 12:22:20.0255 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 12:22:26.0138 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 15:34:04.0902 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:204) -got desired capabilities for:iOS
+[INFO ] 2021-03-22 15:34:05.0016 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 15:34:06.0281 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 15:34:11.0877 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 15:34:18.0050 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 15:34:26.0462 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 15:34:27.0397 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 15:34:36.0115 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 15:34:37.0867 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 15:34:39.0564 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 15:34:45.0985 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99 ADD TO CART
+[INFO ] 2021-03-22 15:34:47.0856 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 15:34:47.0856 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 15:34:53.0992 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 16:45:40.0729 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:204) -got desired capabilities for:iOS
+[INFO ] 2021-03-22 16:45:40.0773 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 16:45:42.0022 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 16:45:47.0715 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 16:45:53.0934 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 16:46:01.0993 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 16:46:03.0235 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 16:46:11.0887 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 16:46:13.0744 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 16:46:15.0361 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 16:46:21.0783 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99 ADD TO CART
+[INFO ] 2021-03-22 16:46:23.0755 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 16:46:23.0755 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 16:46:29.0443 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 17:12:34.0289 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:204) -got desired capabilities for:iOS
+[INFO ] 2021-03-22 17:12:34.0334 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:12:35.0283 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -successful_login
+[INFO ] 2021-03-22 17:12:39.0518 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:55) -sent user name and password
+[INFO ] 2021-03-22 17:12:40.0616 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:57) -clicked on login
+[INFO ] 2021-03-22 17:12:48.0027 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:60) -clicked on hamburger
+[INFO ] 2021-03-22 17:12:51.0415 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:62) -clicked on logout
+[INFO ] 2021-03-22 17:12:53.0335 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:12:54.0277 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password
+[INFO ] 2021-03-22 17:12:58.0334 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:82) -sent user name and password
+[INFO ] 2021-03-22 17:12:59.0408 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:84) -clicked on login
+[INFO ] 2021-03-22 17:12:59.0409 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:85) -got error text...
+[INFO ] 2021-03-22 17:13:02.0871 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:13:04.0102 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password_username
+[INFO ] 2021-03-22 17:13:09.0523 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:94) -sent user name and password
+[INFO ] 2021-03-22 17:13:10.0735 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:96) -clicked on login
+[INFO ] 2021-03-22 17:13:10.0736 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:97) -got error text...
+[INFO ] 2021-03-22 17:13:14.0544 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:13:15.0488 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_username
+[INFO ] 2021-03-22 17:13:20.0847 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:70) -sent user name and password
+[INFO ] 2021-03-22 17:13:21.0953 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:72) -clicked on login
+[INFO ] 2021-03-22 17:13:21.0953 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:73) -got error text...
+[INFO ] 2021-03-22 17:17:51.0351 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:204) -got desired capabilities for:iOS
+[INFO ] 2021-03-22 17:17:51.0396 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:17:52.0721 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -successful_login
+[INFO ] 2021-03-22 17:17:57.0581 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:55) -sent user name and password
+[INFO ] 2021-03-22 17:17:59.0275 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:57) -clicked on login
+[INFO ] 2021-03-22 17:18:08.0109 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:60) -clicked on hamburger
+[INFO ] 2021-03-22 17:18:12.0421 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:62) -clicked on logout
+[INFO ] 2021-03-22 17:18:14.0555 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:18:15.0792 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password
+[INFO ] 2021-03-22 17:18:20.0177 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:82) -sent user name and password
+[INFO ] 2021-03-22 17:18:21.0849 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:84) -clicked on login
+[INFO ] 2021-03-22 17:18:21.0849 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:85) -got error text...
+[INFO ] 2021-03-22 17:18:26.0405 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:18:27.0647 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password_username
+[INFO ] 2021-03-22 17:18:33.0190 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:94) -sent user name and password
+[INFO ] 2021-03-22 17:18:34.0312 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:96) -clicked on login
+[INFO ] 2021-03-22 17:18:34.0313 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:97) -got error text...
+[INFO ] 2021-03-22 17:18:37.0865 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:18:38.0809 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_username
+[INFO ] 2021-03-22 17:18:44.0216 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:70) -sent user name and password
+[INFO ] 2021-03-22 17:18:45.0345 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:72) -clicked on login
+[INFO ] 2021-03-22 17:18:45.0346 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:73) -got error text...
+[INFO ] 2021-03-22 17:22:54.0713 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:204) -got desired capabilities for:iOS
+[INFO ] 2021-03-22 17:22:54.0775 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:22:56.0026 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -successful_login
+[INFO ] 2021-03-22 17:23:00.0698 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:55) -sent user name and password
+[INFO ] 2021-03-22 17:23:02.0075 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:57) -clicked on login
+[INFO ] 2021-03-22 17:23:11.0342 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:60) -clicked on hamburger
+[INFO ] 2021-03-22 17:23:15.0260 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:62) -clicked on logout
+[INFO ] 2021-03-22 17:23:16.0894 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:23:17.0820 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password
+[INFO ] 2021-03-22 17:23:23.0224 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:82) -sent user name and password
+[INFO ] 2021-03-22 17:23:24.0922 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:84) -clicked on login
+[INFO ] 2021-03-22 17:23:24.0931 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:85) -got error text...
+[INFO ] 2021-03-22 17:23:28.0382 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:23:29.0319 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password_username
+[INFO ] 2021-03-22 17:23:34.0736 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:94) -sent user name and password
+[INFO ] 2021-03-22 17:23:35.0857 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:96) -clicked on login
+[INFO ] 2021-03-22 17:23:35.0858 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:97) -got error text...
+[INFO ] 2021-03-22 17:23:38.0963 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:23:39.0905 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_username
+[INFO ] 2021-03-22 17:23:45.0116 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:70) -sent user name and password
+[INFO ] 2021-03-22 17:23:46.0242 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:72) -clicked on login
+[INFO ] 2021-03-22 17:23:46.0242 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:73) -got error text...

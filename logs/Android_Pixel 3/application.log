@@ -1,0 +1,163 @@
+[INFO ] 2021-03-22 10:35:05.0609 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:78) -started screen recording
+[FATAL] 2021-03-22 10:35:05.0635 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -unable to start diver instance
+[INFO ] 2021-03-22 10:35:05.0637 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 10:36:32.0477 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:163) -got desired capabilities for:Android
+[INFO ] 2021-03-22 10:36:32.0533 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:78) -started screen recording
+[INFO ] 2021-03-22 10:36:32.0994 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 10:36:37.0606 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 10:36:40.0048 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 10:36:43.0172 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:78) -started screen recording
+[INFO ] 2021-03-22 10:36:43.0619 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 10:36:48.0326 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 10:36:49.0631 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 10:36:49.0901 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 10:36:54.0500 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 10:36:54.0747 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 10:36:54.0748 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 10:36:56.0589 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 10:40:32.0329 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:163) -got desired capabilities for:Android
+[INFO ] 2021-03-22 10:40:32.0583 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:78) -started screen recording
+[INFO ] 2021-03-22 10:40:33.0836 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 10:40:39.0749 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 10:40:43.0810 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 10:40:47.0089 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:78) -started screen recording
+[INFO ] 2021-03-22 10:40:47.0609 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 10:40:54.0914 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 10:40:56.0423 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 10:40:56.0544 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 10:41:00.0630 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 10:41:00.0907 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 10:41:00.0908 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 10:41:02.0670 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:10:30.0089 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:178) -got desired capabilities for:Android
+[INFO ] 2021-03-22 11:10:30.0193 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:80) -started screen recording
+[INFO ] 2021-03-22 11:10:30.0654 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 11:10:34.0911 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 11:10:36.0469 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:10:39.0472 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:80) -started screen recording
+[INFO ] 2021-03-22 11:10:39.0906 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 11:10:44.0747 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 11:10:46.0030 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 11:10:46.0151 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 11:10:50.0008 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 11:10:50.0267 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 11:10:50.0268 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 11:10:51.0817 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:23:59.0145 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:179) -got desired capabilities for:Android
+[INFO ] 2021-03-22 11:23:59.0196 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:80) -started screen recording
+[INFO ] 2021-03-22 11:23:59.0650 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 11:24:04.0514 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 11:24:05.0995 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:24:08.0858 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:80) -started screen recording
+[INFO ] 2021-03-22 11:24:09.0275 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 11:24:13.0649 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 11:24:14.0852 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 11:24:14.0961 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 11:24:18.0554 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 11:24:18.0738 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 11:24:18.0738 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 11:24:20.0117 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:27:32.0399 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:182) -got desired capabilities for:Android
+[INFO ] 2021-03-22 11:27:32.0444 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:81) -started screen recording
+[INFO ] 2021-03-22 11:27:32.0880 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 11:27:37.0274 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 11:27:38.0727 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:27:41.0566 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:81) -started screen recording
+[INFO ] 2021-03-22 11:27:41.0985 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 11:27:46.0978 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 11:27:48.0260 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 11:27:48.0361 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 11:27:52.0255 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 11:27:52.0439 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 11:27:52.0440 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 11:27:53.0771 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:34:35.0996 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:185) -got desired capabilities for:Android
+[INFO ] 2021-03-22 11:34:36.0050 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 11:34:36.0499 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 11:34:40.0538 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 11:34:42.0215 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:34:45.0116 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 11:34:45.0545 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 11:34:50.0824 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 11:34:52.0758 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 11:34:52.0914 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 11:34:56.0741 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 11:34:56.0889 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 11:34:56.0890 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 11:34:58.0007 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:40:23.0363 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[FATAL] 2021-03-22 11:40:23.0387 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:88) -unable to start diver instance
+[INFO ] 2021-03-22 11:40:23.0390 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 11:46:03.0033 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:186) -got desired capabilities for:Android
+[INFO ] 2021-03-22 11:46:03.0087 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 11:46:03.0535 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 11:46:07.0454 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 11:46:09.0474 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:46:12.0694 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 11:46:13.0123 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 11:46:17.0863 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 11:46:19.0141 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 11:46:19.0237 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 11:46:23.0281 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 11:46:23.0462 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 11:46:23.0462 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 11:46:24.0567 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:52:40.0997 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:185) -got desired capabilities for:Android
+[INFO ] 2021-03-22 11:52:41.0044 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 11:52:41.0494 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 11:52:44.0936 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 11:52:46.0646 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 11:52:50.0093 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 11:52:50.0599 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 11:52:54.0565 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 11:52:55.0848 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 11:52:55.0958 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 11:52:59.0524 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 11:52:59.0689 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 11:52:59.0690 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 11:53:00.0979 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 12:04:42.0511 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:188) -got desired capabilities for:Android
+[INFO ] 2021-03-22 12:04:42.0557 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 12:04:42.0997 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 12:04:47.0348 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 12:04:49.0074 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 12:04:52.0602 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 12:04:53.0149 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 12:04:56.0943 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 12:04:58.0336 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 12:04:58.0435 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 12:05:02.0146 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 12:05:02.0296 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 12:05:02.0297 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 12:05:03.0502 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 12:06:11.0841 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:191) -got desired capabilities for:Android
+[INFO ] 2021-03-22 12:06:11.0885 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 12:06:12.0331 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 12:06:16.0734 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 12:06:18.0613 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 12:06:22.0286 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 12:06:22.0784 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 12:06:26.0753 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 12:06:28.0061 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 12:06:28.0165 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 12:06:31.0792 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 12:06:31.0953 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 12:06:31.0953 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 12:06:33.0196 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 12:08:07.0424 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[FATAL] 2021-03-22 12:08:07.0452 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:88) -unable to start diver instance
+[INFO ] 2021-03-22 12:08:07.0455 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 12:08:48.0546 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:191) -got desired capabilities for:Android
+[INFO ] 2021-03-22 12:08:48.0590 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 12:08:49.0033 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_products
+[INFO ] 2021-03-22 12:08:52.0754 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_products(ProductsTest.java:64) -Asserting product name,product price from PP
+[INFO ] 2021-03-22 12:08:55.0301 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method
+[INFO ] 2021-03-22 12:08:58.0526 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:82) -started screen recording
+[INFO ] 2021-03-22 12:08:58.0946 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.initialize_loginpage(ProductsTest.java:29) -Validate_productDetails
+[INFO ] 2021-03-22 12:09:04.0030 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:74) -Tapped on product
+[INFO ] 2021-03-22 12:09:05.0298 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:76) -got product title: Sauce Labs Backpack
+[INFO ] 2021-03-22 12:09:05.0413 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:78) -got product description: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2021-03-22 12:09:09.0895 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:80) -scrolled and got product price$29.99
+[INFO ] 2021-03-22 12:09:10.0058 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:82) -navigated back to products page
+[INFO ] 2021-03-22 12:09:10.0059 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.Validate_productDetails(ProductsTest.java:83) -Assertions...
+[INFO ] 2021-03-22 12:09:11.0290 com.qa.tests.ProductsTest:com.qa.tests.ProductsTest.logout(ProductsTest.java:36) -logout common before method

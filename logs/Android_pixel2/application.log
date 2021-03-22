@@ -1,0 +1,44 @@
+[INFO ] 2021-03-22 17:17:51.0277 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:193) -got desired capabilities for:Android
+[INFO ] 2021-03-22 17:17:51.0364 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:17:51.0975 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -successful_login
+[INFO ] 2021-03-22 17:17:56.0548 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:55) -sent user name and password
+[INFO ] 2021-03-22 17:17:57.0375 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:57) -clicked on login
+[INFO ] 2021-03-22 17:18:01.0596 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:60) -clicked on hamburger
+[INFO ] 2021-03-22 17:18:03.0657 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:62) -clicked on logout
+[INFO ] 2021-03-22 17:18:06.0818 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:18:07.0366 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password
+[INFO ] 2021-03-22 17:18:09.0781 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:82) -sent user name and password
+[INFO ] 2021-03-22 17:18:10.0468 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:84) -clicked on login
+[INFO ] 2021-03-22 17:18:10.0469 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:85) -got error text...
+[INFO ] 2021-03-22 17:18:12.0931 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:18:13.0512 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password_username
+[INFO ] 2021-03-22 17:18:15.0859 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:94) -sent user name and password
+[INFO ] 2021-03-22 17:18:16.0502 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:96) -clicked on login
+[INFO ] 2021-03-22 17:18:16.0503 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:97) -got error text...
+[INFO ] 2021-03-22 17:18:18.0123 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:18:18.0563 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_username
+[INFO ] 2021-03-22 17:18:21.0519 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:70) -sent user name and password
+[INFO ] 2021-03-22 17:18:22.0321 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:72) -clicked on login
+[INFO ] 2021-03-22 17:18:22.0321 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:73) -got error text...
+[INFO ] 2021-03-22 17:22:54.0713 com.qa.Base.BaseTest:com.qa.Base.BaseTest.desired_capabilities(BaseTest.java:193) -got desired capabilities for:Android
+[INFO ] 2021-03-22 17:22:54.0774 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:22:55.0237 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -successful_login
+[INFO ] 2021-03-22 17:22:59.0463 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:55) -sent user name and password
+[INFO ] 2021-03-22 17:23:00.0121 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:57) -clicked on login
+[INFO ] 2021-03-22 17:23:03.0688 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:60) -clicked on hamburger
+[INFO ] 2021-03-22 17:23:05.0651 com.qa.tests.LoginTest:com.qa.tests.LoginTest.successful_login(LoginTest.java:62) -clicked on logout
+[INFO ] 2021-03-22 17:23:07.0290 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:23:07.0733 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password
+[INFO ] 2021-03-22 17:23:09.0522 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:82) -sent user name and password
+[INFO ] 2021-03-22 17:23:10.0198 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:84) -clicked on login
+[INFO ] 2021-03-22 17:23:10.0199 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password(LoginTest.java:85) -got error text...
+[INFO ] 2021-03-22 17:23:13.0155 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:23:13.0588 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_password_username
+[INFO ] 2021-03-22 17:23:16.0554 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:94) -sent user name and password
+[INFO ] 2021-03-22 17:23:17.0166 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:96) -clicked on login
+[INFO ] 2021-03-22 17:23:17.0167 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_password_username(LoginTest.java:97) -got error text...
+[INFO ] 2021-03-22 17:23:18.0054 com.qa.Base.BaseTest:com.qa.Base.BaseTest.startScreenRecording(BaseTest.java:84) -started screen recording
+[INFO ] 2021-03-22 17:23:18.0492 com.qa.tests.LoginTest:com.qa.tests.LoginTest.initialize_loginpage(LoginTest.java:25) -unsuccessful_login_wrong_username
+[INFO ] 2021-03-22 17:23:21.0183 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:70) -sent user name and password
+[INFO ] 2021-03-22 17:23:21.0970 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:72) -clicked on login
+[INFO ] 2021-03-22 17:23:21.0971 com.qa.tests.LoginTest:com.qa.tests.LoginTest.unsuccessful_login_wrong_username(LoginTest.java:73) -got error text...

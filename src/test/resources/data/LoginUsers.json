@@ -1,0 +1,18 @@
+{
+  "ValidUser": {
+    "userName": "standard_user",
+    "password": "secret_sauce"
+  },
+  "WrongUserName": {
+    "userName": "dummy_user",
+    "password": "secret_sauce"
+  },
+  "WrongPassword": {
+    "userName": "standard_user",
+    "password": "dummy_sauce"
+  },
+  "WrongUserNameandWrongPassword": {
+    "userName": "dummy_user",
+    "password": "dummy_sauce"
+  }
+}
