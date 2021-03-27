@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sauce Labs App Automation">
+    <listeners>
+        <listener class-name="com.qa.listeners.TestListener"/>
+    </listeners>
+    <test name="Login-test-Android">
+        <parameter name="platformName" value="Android"/>
+        <parameter name="deviceName" value="pixel3"/>
+        <parameter name="UDID" value="My_emulator"/>
+        <parameter name="systemPort" value="10000"/>
+        <parameter name="chromeDriverPort" value="11000"/>
+        <classes>
+            <class name="com.qa.tests.LoginTest"/>
+        </classes>
+    </test>
+    <test name="Product-test-Android">
+        <parameter name="platformName" value="Android"/>
+        <parameter name="deviceName" value="pixel3"/>
+        <parameter name="UDID" value="My_emulator"/>
+        <parameter name="systemPort" value="10000"/>
+        <parameter name="chromeDriverPort" value="11000"/>
+        <classes>
+            <class name="com.qa.tests.ProductsTest"/>
+        </classes>
+    </test>
+</suite>

@@ -3,7 +3,6 @@ package com.qa.Base;
 
 import com.qa.utils.TestUtils;
 import io.appium.java_client.AppiumDriver;
-import io.appium.java_client.FindsByAndroidUIAutomator;
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
